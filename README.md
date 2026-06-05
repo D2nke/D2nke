@@ -1,28 +1,28 @@
 # Samuel Lucas
 
-**DevOps | Platform Engineer | Cloud Infrastructure**
+**DevOps Engineer | Platform Engineer | Cloud Infrastructure**
 
-5+ anos automatizando infraestrutura, padronizando pipelines de CI/CD e escalando plataformas em GCP, AWS e Azure.
+5+ years automating infrastructure, standardizing CI/CD pipelines, and scaling platforms on GCP, AWS, and Azure.
 
 ## About
 
-Especialista em construir infraestrutura como código confiável e reproduzível, plataformas de desenvolvimento que escalam e pipelines com DevSecOps integrado. Já trabalhei da criação de clusters Kubernetes do zero até a padronização de CI/CD para mais de 120 equipes de engenharia simultaneamente.
+Specialist in building reliable and reproducible infrastructure as code, developer platforms that scale, and pipelines with integrated DevSecOps. I've gone from building Kubernetes clusters from scratch to standardizing CI/CD across 120+ engineering teams simultaneously.
 
-**Principais areas:**
+**Core areas:**
 - Infrastructure as Code (Terraform) — GCP, AWS, Azure
-- Kubernetes lifecycle management
-- CI/CD standardization e DevSecOps (GitHub Actions, GitLab CI, Azure DevOps)
-- Observability stacks (Grafana, Prometheus, Loki)
-- MLOps / Data Platform infrastructure (EMR, DataLake, Glue)
+- Kubernetes lifecycle management (GKE, EKS, AKS)
+- CI/CD standardization & DevSecOps (GitHub Actions, GitLab CI, Azure DevOps)
+- Observability stacks (Grafana, Prometheus, Dynatrace)
+- MLOps / Data Platform infrastructure (EMR, DataLake, Glue, Airflow)
 
 ## Portfolio
 
-| Projeto | Stack | Contexto |
+| Project | Stack | Context |
 |---------|-------|---------|
-| [my_workflows](https://github.com/D2nke/my_workflows) | GitHub Actions | Workflows reutilizáveis com DevSecOps gates — criados durante a migração Azure DevOps → GitHub Actions em um grande banco |
-| [terraform-aws-datalake](https://github.com/D2nke/terraform-aws-datalake) | Terraform, AWS | Infraestrutura modular de DataLake usada para padronizar ambientes de 120+ times de engenharia |
-| [k8s-platform](https://github.com/D2nke/k8s-platform) | Terraform, GKE, Helm, Prometheus | Plataforma Kubernetes completa: rede, cluster, monitoring e deploy declarativo via Helm |
-| [gitlab-ci-templates](https://github.com/D2nke/gitlab-ci-templates) | GitLab CI | Templates de pipeline reutilizáveis para Java, JS e Docker — usados em larga escala |
+| [my_workflows](https://github.com/D2nke/my_workflows) | GitHub Actions | Reusable workflows with DevSecOps gates — built during Azure DevOps → GitHub Actions migration at a major bank |
+| [terraform-aws-datalake](https://github.com/D2nke/terraform-aws-datalake) | Terraform, AWS | Modular DataLake infrastructure used to standardize environments across 120+ engineering teams |
+| [k8s-platform](https://github.com/D2nke/k8s-platform) | Terraform, GKE, Helm, Prometheus | Full Kubernetes platform: networking, cluster, monitoring, and declarative app deployment via Helm |
+| [gitlab-ci-templates](https://github.com/D2nke/gitlab-ci-templates) | GitLab CI | Reusable pipeline templates for Java, JS, and Docker — used at scale |
 
 ## Stack
 
@@ -43,4 +43,3 @@ Especialista em construir infraestrutura como código confiável e reproduzível
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-
